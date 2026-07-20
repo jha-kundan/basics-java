@@ -1,3 +1,4 @@
+package operator;
 /*
 Logical operators evaluate conditions logically and return boolean results.
 

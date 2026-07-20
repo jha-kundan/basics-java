@@ -1,3 +1,4 @@
+package operator;
 /*
 == checks equality between two operands.
 = assigns a value to a variable.
